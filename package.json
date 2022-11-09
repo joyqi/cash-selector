@@ -1,20 +1,18 @@
 {
-  "name": "typescript-module-template",
+  "name": "cash-selector",
   "keywords": [],
-  "author": "",
+  "author": "joyqi",
   "license": "",
-  "description": "",
+  "description": "A small querySelector and querySelectorAll alternative.",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/joyqi/cash-selector.git"
   },
-  "homepage": "",
+  "homepage": "https://github.com/joyqi/cash-selector#readme",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/joyqi/cash-selector/issues"
   },
-
   "version": "0.0.1",
-
   "main": "lib/index.js",
   "module": "lib/index.js",
   "types": "lib/index.d.ts",
