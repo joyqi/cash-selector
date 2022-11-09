@@ -1,1 +1,4 @@
-// TODO: export your library
+export {
+    querySelector as $,
+    querySelectorAll as $$,
+} from './selector';
