@@ -3,7 +3,7 @@
   "keywords": [],
   "author": "joyqi",
   "license": "",
-  "description": "A small querySelector and querySelectorAll alternative.",
+  "description": "A simple querySelector and querySelectorAll wrapper.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/joyqi/cash-selector.git"
